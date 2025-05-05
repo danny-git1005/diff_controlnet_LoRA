@@ -1,0 +1,12 @@
+torch>=1.7.0
+torchvision>=0.8.0
+numpy>=1.19.0
+Pillow>=8.0.0
+transformers>=4.25.1
+accelerate>=0.15.0
+diffusers>=0.14.0
+controlnet-aux>=0.0.5
+wandb>=0.13.0
+opencv-python>=4.5.0
+albumentations>=1.0.0
+tqdm>=4.64.0
